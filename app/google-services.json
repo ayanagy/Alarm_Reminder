@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "15751213443",
+    "firebase_url": "https://ripsalarmsreminder.firebaseio.com",
+    "project_id": "ripsalarmsreminder",
+    "storage_bucket": "ripsalarmsreminder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15751213443:android:cdc921c061502bc5",
+        "android_client_info": {
+          "package_name": "com.delaroystudios.alarmreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15751213443-kap7pcpgtfa82bvnbslshlma8b15oivl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-S87FVROWBQYqkBDhlfS9KSGd-MDJllk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
